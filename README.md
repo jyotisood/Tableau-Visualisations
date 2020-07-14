@@ -6,8 +6,15 @@
 
 ![Alt text](https://github.com/jyotisood/Tableau-Visualisations/blob/master/all.jpg)
 
+![Alt text](https://github.com/jyotisood/Tableau-Visualisations/blob/master/west.png)
 
 ![Alt text](https://github.com/jyotisood/Tableau-Visualisations/blob/master/central.png)
 
+![Alt text](https://github.com/jyotisood/Tableau-Visualisations/blob/master/east.png)
+
+![Alt text](https://github.com/jyotisood/Tableau-Visualisations/blob/master/south.png)
 
 ![Alt text](https://github.com/jyotisood/Tableau-Visualisations/blob/master/giphy.gif)
+
+
+
